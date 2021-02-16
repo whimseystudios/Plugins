@@ -1,2 +1,0 @@
-# Plugins
-Whimsey Studios Plugins
