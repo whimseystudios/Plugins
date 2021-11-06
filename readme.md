@@ -1,5 +1,5 @@
 # Whimsey Plugins
-V0.1.0-Beta Build 20210215
+V0.1.1-Beta Build 20211004
 
 © 2020-2021 Whimsey Digital All Rights Reserved.
 
